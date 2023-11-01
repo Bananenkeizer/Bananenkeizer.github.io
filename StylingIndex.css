@@ -4,6 +4,7 @@ body {
   justify-content: center;
   align-items: center;
   display: flex;
+  overflow: hidden;
 }
 .main {
   
@@ -12,6 +13,7 @@ body {
   border-radius: 50%;
 }
 .pfpback {
+  margin-top: 50px;
   height: 260px;
   width: 260px;
   background-color: white;
